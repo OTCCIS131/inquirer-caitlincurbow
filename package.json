@@ -1,0 +1,19 @@
+{
+  "name": "inquirer-caitlincurbow",
+  "version": "1.0.0",
+  "description": "inquirer-caitlincurbow",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OTCCIS131/inquirer-caitlincurbow.git"
+  },
+  "author": "Caitlin Curbow",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OTCCIS131/inquirer-caitlincurbow/issues"
+  },
+  "homepage": "https://github.com/OTCCIS131/inquirer-caitlincurbow#readme"
+}
